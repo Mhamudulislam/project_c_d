@@ -1,0 +1,36 @@
+.header, .hero, .body, .footer, .bar
+{background-color: aquamarine; margin-bottom: 50px;}
+.box1
+{margin: 10px 0; background-color: red; min-height: 100px; font-size: 30px; color: aliceblue;}
+.box2
+{background-color: #626262;}
+.box3
+{background-color: black;}
+.box4
+{background-color: rosybrown;}
+.box5
+{background-color: burlywood;}
+.box6
+{background-color: burlywood;}
+.box7
+{background-color:cadetblue ;}
+
+
+
+
+
+
+.new1, .new2, .new3, .new4, .new5, .new6
+{background-color: aquamarine; margin-bottom: 50px;}
+.box10
+{background-color: black; min-height: 15vh; font-size: 30px; text-align: center; color: #e9d7d7; margin: 10px 0;}
+.bf1
+{background-color: #cc3939;}
+.bf2
+{background-color: beige;}
+.bf3
+{background-color: #2b7288;}
+.bf4
+{background-color: rgb(28, 104, 18);}
+.bf5
+{background-color: #500808;}
